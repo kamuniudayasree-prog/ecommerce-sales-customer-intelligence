@@ -13,5 +13,4 @@ This project analyzes e-commerce sales data to identify sales trends, customer i
 ## Dashboard
 The project includes in interactive Power BI dashboard for sales and customer analysis.
 ## Power BI Dashboard
-![Power BI Dashboard]
-(Screenshot%20%2824%29.png)
+![Power BI Dashboard](Screenshot%20%2824%29.png)
